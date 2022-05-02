@@ -1,0 +1,22 @@
+bottomNavigationBar: Visibility(
+        visible: isNoData,
+        child: BottomAppBar(
+          child: Container(
+            padding: EdgeInsets.all(20),
+            child: TextFormField(
+              controller: _todo,
+              onChanged: (value) {
+                if (value != "" || value != " ") {
+                  inputValue = true;
+                } else {
+                  inputValue = false;
+                }
+                setState(() {});
+              },
+              decoration: InputDecoration(
+                hintText: "Add a To Do",
+              ),
+            ),
+          ),
+        ),
+      ),

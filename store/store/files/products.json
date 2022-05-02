@@ -1,0 +1,152 @@
+{
+    "products" :[
+        {
+
+        "id": 1,
+        "name": "iPhone 13 Pro Max",
+        "description": "Oh. So. Pro.",
+        "price": 1099,
+        "color": "#69abce",
+        "itemImgUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13promax-digitalmat-gallery-1-202111_GEO_US?wid=728&hei=666&fmt=png-alpha&.v=1635487433000"
+
+    },
+    {
+
+        "id": 2,
+        "name": "iPhone 13 Pro",
+        "description": "Oh. So. Pro.",
+        "price": 999,
+        "color": "#69abce",
+        "itemImgUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13pro-digitalmat-gallery-1-202111_GEO_US?wid=728&hei=666&fmt=png-alpha&.v=1635487435000"
+
+    },
+    {
+
+        "id": 3,
+        "name": "iPhone 13",
+        "description": "Your new superpower.",
+        "price": 799,
+        "color": "#69abce",
+        "itemImgUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13-digitalmat-gallery-1-202111_GEO_US?wid=728&hei=666&fmt=png-alpha&.v=1635964542000"
+    },
+    {
+
+        "id": 4,
+        "name": "iPhone 13 mini",
+        "description": "Power in your small pocket.",
+        "price": 699,
+        "color": "#69abce",
+        "itemImgUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13mini-digitalmat-gallery-1-202111_GEO_US?wid=728&hei=666&fmt=png-alpha&.v=1635964544000"
+    },
+
+     {
+
+        "id": 5,
+        "name": "Apple Watch Series 7",
+        "description": "Give more to your heart.",
+        "price": 749,
+        "color": "#69abce",
+        "itemImgUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MMWK3ref_VW_34FR+watch-45-stainless-graphite-cell-7s_VW_34FR_WF_CO+watch-face-45-braided-black-unity_VW_34FR_WF_CO?wid=750&hei=712&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1642551422000%2C1631661901000%2C1641962816000"
+
+    },
+
+    {
+
+        "id": 6,
+        "name": "MacBook Pro",
+        "description": "Macbook for pros.",
+        "price": 1999,
+        "color": "#69abce",
+        "itemImgUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202110?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1632788573000"
+    },
+   
+    {
+
+        "id": 7,
+        "name": "MacBook Air",
+        "description": "Power. It's in the Air.",
+        "price": 999,
+        "color": "#69abce",
+        "itemImgUrl": "https://images-na.ssl-images-amazon.com/images/I/21+2gXvpcCL._AC_UL600_SR600,600_.jpg"
+    },
+    {
+
+        "id": 8,
+        "name": "Macbook Pro 13\"",
+        "description": "All systems Pro.",
+        "price": 1299,
+        "color": "#69abce",
+        "itemImgUrl": "https://www.laptopsdirect.co.uk/Images/MWP72BA_2_Supersize.jpg"
+    },
+
+    {
+
+        "id": 9,
+        "name": "iPad Pro",
+        "price": 799,
+        "description": "Supercharged by the Apple M1 chip.",
+        "color": "#69abce",
+        "itemImgUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-pro-11-2020-1.jpg"
+    },
+    {
+
+        "id": 10,
+        "name": "iPad mini",
+        "description": "Mega power.Mini sized.",
+        "price": 499,
+        "color": "#69abce",
+        "itemImgUrl": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-wifi-starlight-202109_FMT_WHH?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1629840333000"
+    },
+
+    {
+
+        "id": 11,
+        "name": "iPad",
+        "description": "Powerful. Easy to use. Versatile.",
+        "price": 329,
+        "color": "#69abce",
+        "itemImgUrl": "https://www.notebookcheck.net/uploads/tx_nbc2/ipad-2021-hero-landing-wifi.jpg"
+
+    },
+    {
+
+        "id": 12,
+        "name": "iPad Air",
+        "description": "Powerful. Colorful. Wonderful.",
+        "price": 599,
+        "color": "#69abce",
+        "itemImgUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-select-wifi-green-202009?wid=940&hei=1112&fmt=png-alpha&.v=1598650644000"
+    
+    },
+    {
+
+        "id": 13,
+        "name":"Airpods Max",
+        "description": "The ultimate personal listening experience is here.",
+        "price": 549,
+        "color": "#69abce",
+        "itemImgUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-hero-select-202011_FMT_WHH?wid=607&hei=556&fmt=jpeg&qlt=80&.v=1633623988000"
+   
+    },
+    {
+
+        "id": 14,
+        "name": "AirPods Pro",
+        "description": "Sound that cuts out the noise.",
+        "price": 249,
+        "color": "#69abce",
+        "itemImgUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWP22?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1591634795000"
+    },
+
+    {
+
+        "id": 15,
+        "name": "iPhone 12",
+        "description": "Blast past fast.",
+        "price": 599,
+        "color": "#69abce",
+        "itemImgUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-purple-select-2021?wid=940&hei=1112&fmt=png-alpha&.v=1617130317000"
+    }
+   
+]
+}
